@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X":
+    {
+      "item": "winnie:ruby"
+    }
+  },
+  "result": {
+    "item": "winnie:ruby_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "winnie:block/firstblock",
+    "up": "winnie:block/firstblock",
+    "north": "winnie:block/firstblock_front",
+    "south": "winnie:block/firstblock",
+    "east": "winnie:block/firstblock",
+    "west": "winnie:block/firstblock"
+  }
+}

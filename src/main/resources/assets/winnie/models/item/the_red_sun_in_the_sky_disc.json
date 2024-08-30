@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "winnie:item/the_red_sun_in_the_sky_disc"
+  }
+}

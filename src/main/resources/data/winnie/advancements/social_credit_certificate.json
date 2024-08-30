@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "winnie:social_credit_certificate"
+    },
+    "title": {
+      "translate": "advancements.winnie.adventure.social_credit_certificate.title"
+    },
+    "description": {
+      "translate": "advancements.winnie.adventure.social_credit_certificate.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "winnie:social_credit_certificate"
+          }
+        ]
+      }
+    }
+  }
+}

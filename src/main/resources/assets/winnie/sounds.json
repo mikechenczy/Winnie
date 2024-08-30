@@ -1,0 +1,218 @@
+{
+  "score1": {
+    "category": "entities",
+    "subtitle": "winnie.score1",
+    "sounds": [
+      "winnie:score1"
+    ]
+  },
+  "score2": {
+    "category": "entities",
+    "subtitle": "winnie.score2",
+    "sounds": [
+      "winnie:score2"
+    ]
+  },
+  "score3": {
+    "category": "entities",
+    "subtitle": "winnie.score3",
+    "sounds": [
+      "winnie:score3"
+    ]
+  },
+  "score4": {
+    "category": "entities",
+    "subtitle": "winnie.score4",
+    "sounds": [
+      "winnie:score4"
+    ]
+  },
+  "score5": {
+    "category": "entities",
+    "subtitle": "winnie.score5",
+    "sounds": [
+      "winnie:score5"
+    ]
+  },
+  "score6": {
+    "category": "entities",
+    "subtitle": "winnie.score6",
+    "sounds": [
+      "winnie:score6"
+    ]
+  },
+  "score7": {
+    "category": "entities",
+    "subtitle": "winnie.score7",
+    "sounds": [
+      "winnie:score7"
+    ]
+  },
+  "score8": {
+    "category": "entities",
+    "subtitle": "winnie.score8",
+    "sounds": [
+      "winnie:score8"
+    ]
+  },
+  "score9": {
+    "category": "entities",
+    "subtitle": "winnie.score9",
+    "sounds": [
+      "winnie:score9"
+    ]
+  },
+  "score10": {
+    "category": "entities",
+    "subtitle": "winnie.score10",
+    "sounds": [
+      "winnie:score10"
+    ]
+  },
+  "score11": {
+    "category": "entities",
+    "subtitle": "winnie.score11",
+    "sounds": [
+      "winnie:score11"
+    ]
+  },
+  "score12": {
+    "category": "entities",
+    "subtitle": "winnie.score12",
+    "sounds": [
+      "winnie:score12"
+    ]
+  },
+  "score13": {
+    "category": "entities",
+    "subtitle": "winnie.score13",
+    "sounds": [
+      "winnie:score13"
+    ]
+  },
+  "score14": {
+    "category": "entities",
+    "subtitle": "winnie.score14",
+    "sounds": [
+      "winnie:score14"
+    ]
+  },
+  "score15": {
+    "category": "entities",
+    "subtitle": "winnie.score15",
+    "sounds": [
+      "winnie:score15"
+    ]
+  },
+  "score16": {
+    "category": "entities",
+    "subtitle": "winnie.score16",
+    "sounds": [
+      "winnie:score16"
+    ]
+  },
+  "score17": {
+    "category": "entities",
+    "subtitle": "winnie.score17",
+    "sounds": [
+      "winnie:score17"
+    ]
+  },
+  "score18": {
+    "category": "entities",
+    "subtitle": "winnie.score18",
+    "sounds": [
+      "winnie:score18"
+    ]
+  },
+  "score19": {
+    "category": "entities",
+    "subtitle": "winnie.score19",
+    "sounds": [
+      "winnie:score19"
+    ]
+  },
+  "score20": {
+    "category": "entities",
+    "subtitle": "winnie.score20",
+    "sounds": [
+      "winnie:score20"
+    ]
+  },
+  "score21": {
+    "category": "entities",
+    "subtitle": "winnie.score21",
+    "sounds": [
+      "winnie:score21"
+    ]
+  },
+  "score22": {
+    "category": "entities",
+    "subtitle": "winnie.score22",
+    "sounds": [
+      "winnie:score22"
+    ]
+  },
+  "score23": {
+    "category": "entities",
+    "subtitle": "winnie.score23",
+    "sounds": [
+      "winnie:score23"
+    ]
+  },
+  "score24": {
+    "category": "entities",
+    "subtitle": "winnie.score24",
+    "sounds": [
+      "winnie:score24"
+    ]
+  },
+  "score25": {
+    "category": "entities",
+    "subtitle": "winnie.score25",
+    "sounds": [
+      "winnie:score25"
+    ]
+  },
+  "score26": {
+    "category": "entities",
+    "subtitle": "winnie.score26",
+    "sounds": [
+      "winnie:score26"
+    ]
+  },
+
+  "xijinping_death": {
+    "category": "entities",
+    "subtitle": "winnie.xijinping_death",
+    "sounds": [
+      "winnie:xijinping_death"
+    ]
+  },
+
+  "xijinping_hurt": {
+    "category": "entities",
+    "subtitle": "winnie.xijinping_hurt",
+    "sounds": [
+      "winnie:xijinping_hurt"
+    ]
+  },
+
+  "xijinping_zhongguohua": {
+    "sounds": [
+      {
+        "name": "winnie:xijinping_zhongguohua",
+        "stream": true
+      }
+    ]
+  },
+
+  "the_red_sun_in_the_sky": {
+    "sounds": [
+      {
+        "name": "winnie:the_red_sun_in_the_sky",
+        "stream": true
+      }
+    ]
+  }
+}

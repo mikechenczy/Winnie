@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "winnie:item/diamond_hammer"
+  }
+}

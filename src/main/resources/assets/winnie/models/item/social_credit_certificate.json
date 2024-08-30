@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "winnie:item/social_credit_certificate"
+  }
+}

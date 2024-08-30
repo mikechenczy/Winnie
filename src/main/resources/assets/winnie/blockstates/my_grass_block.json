@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "winnie:block/my_grass_block"
+    }
+  }
+}
